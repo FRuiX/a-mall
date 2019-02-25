@@ -1,0 +1,27 @@
+{
+  "picUrl" : ["static/img/pic-1.jpeg", "static/img/pic-2.jpeg", "static/img/pic-3.jpeg", "static/img/pic-4.jpeg", "static/img/pic-5.jpeg"],
+  "price" : "4590-8237",
+  "sale" : "1477",
+  "title" : "Apple/苹果 iphone X 国行美版现货正品苹果X三网通手机分期免息",
+  "logistics" : ["快递包邮", "月销量714件", "浙江嘉兴"],
+  "judge" : {
+    "title" : "(3010)",
+    "judgeCategory" : ["手机不错(999+)", "性能不错(111)", "颜色好看(13)", "物超所值(89)", "原装(999+)"],
+    "judgeUser" : {
+      "pic" : "static/img/user.jpeg",
+      "name" : ["古****旧", "可******里", "懂***1", "1******3", "吧******酱"]
+    },
+    "judgeList" : ["显示效果: 还不错 运行速度: 还可以吧 拍照效果: 不错蛮清晰的 电池续航: 刚收到没电了正在充电不知道电池耐不耐用啊 总结: 还不错客服态度很好看起来是全新的",
+    "刚拿回来，看着是真机！用过一段时间看啥样！",
+    "手机是正品，非常好用。物流很快，点赞！原来充电头有问题，商家马上重发了一个，服务真正到位。",
+    "评价方未及时做出评价,系统默认好评!",
+    "显示效果: 好 运行速度: 快 拍照效果: 清晰 电池续航: 一天 总结: 值得拥有"],
+    "goodsModel" : "2019-02-23 iphoneX 银色 美国版 官方标配 256G"
+  },
+  "shop" : {
+    "pic" : "static/img/pic-2.jpeg",
+    "name" : "苹果官方旗舰店",
+    "score" : ["宝贝描述(4.9)", "卖家服务(4.9)", "物流服务(4.9)"]
+  },
+  "goodsPic" : ["static/img/pic-1.jpeg", "static/img/pic-2.jpeg", "static/img/pic-3.jpeg", "static/img/pic-4.jpeg", "static/img/pic-5.jpeg"]
+}
